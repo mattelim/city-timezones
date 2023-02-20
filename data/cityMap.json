@@ -1953,7 +1953,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Capitan Arturo Prat Station",
@@ -1965,7 +1965,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Marambio Station",
@@ -1977,7 +1977,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Zucchelli Station",
@@ -1989,7 +1989,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Rothera Station",
@@ -2001,7 +2001,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Palmer Station",
@@ -2013,7 +2013,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Base Presidente Montalva",
@@ -2025,7 +2025,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Carlini Station",
@@ -2037,7 +2037,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "King Sejong Station",
@@ -2049,7 +2049,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Great Wall Station",
@@ -2061,7 +2061,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Escudero Base",
@@ -2073,7 +2073,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Elephant Island",
@@ -2085,7 +2085,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Scott Base",
@@ -2097,7 +2097,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "McMurdo Station",
@@ -2109,7 +2109,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Zhongshan Station",
@@ -2121,7 +2121,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Davis"
   },
   {
     "city": "Vostok",
@@ -2133,7 +2133,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Vostok"
   },
   {
     "city": "Peter I Island",
@@ -2145,7 +2145,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Mirny Station",
@@ -2157,7 +2157,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Davis"
   },
   {
     "city": "Mawson Station",
@@ -2169,7 +2169,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Mawson"
   },
   {
     "city": "Davis Station",
@@ -2181,7 +2181,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Davis"
   },
   {
     "city": "Concordia Research Station",
@@ -2193,7 +2193,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Casey"
   },
   {
     "city": "Casey Station",
@@ -2205,7 +2205,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Casey"
   },
   {
     "city": "Amundsen–Scott South Pole Station",
@@ -2217,7 +2217,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Wasa Station",
@@ -2229,7 +2229,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Troll Station",
@@ -2241,7 +2241,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Troll"
   },
   {
     "city": "Svea Station",
@@ -2253,7 +2253,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Novolazarevskaya Station",
@@ -2265,7 +2265,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Syowa"
   },
   {
     "city": "Neumayer Station III",
@@ -2277,7 +2277,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "UTC"
   },
   {
     "city": "Maitri Station",
@@ -2289,7 +2289,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Syowa"
   },
   {
     "city": "Halley Station",
@@ -2301,7 +2301,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Belgrano Station",
@@ -2313,7 +2313,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "Camp Sobral",
@@ -2325,7 +2325,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Aboa Station",
@@ -2337,7 +2337,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/McMurdo"
   },
   {
     "city": "San Martín Station",
@@ -2349,7 +2349,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Gen. O'Higgins Station",
@@ -2361,7 +2361,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Palmer"
   },
   {
     "city": "Esperanza Station",
@@ -2373,7 +2373,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Orcadas Station",
@@ -2385,7 +2385,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Signy Research Station",
@@ -2397,7 +2397,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Rothera"
   },
   {
     "city": "Dumont d'Urville Station",
@@ -2409,7 +2409,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/DumontDUrville"
   },
   {
     "city": "Showa Station",
@@ -2421,7 +2421,7 @@
     "iso2": "AQ",
     "iso3": "ATA",
     "province": "",
-    "timezone": null
+    "timezone": "Antarctica/Syowa"
   },
   {
     "city": "Saint John's",
@@ -3597,7 +3597,7 @@
     "iso2": "AR",
     "iso3": "ARG",
     "province": "La Rioja",
-    "timezone": null
+    "timezone": "America/Argentina/La_Rioja"
   },
   {
     "city": "Chamical",
@@ -4257,7 +4257,7 @@
     "iso2": "AR",
     "iso3": "ARG",
     "province": "Chubut",
-    "timezone": null
+    "timezone": "America/Argentina/Catamarca"
   },
   {
     "city": "Mendoza",
@@ -18034,7 +18034,7 @@
     "iso2": "CA",
     "iso3": "CAN",
     "province": "British Columbia",
-    "timezone": null
+    "timezone": "America/Dawson_Creek"
   },
   {
     "city": "Iqaluit",
@@ -38722,7 +38722,7 @@
     "iso2": "IR",
     "iso3": "IRN",
     "province": "West Azarbaijan",
-    "timezone": null
+    "timezone": "Asia/Tehran"
   },
   {
     "city": "Ahar",
@@ -43639,7 +43639,7 @@
     "lng": 20.3107393,
     "pop": 93481.5,
     "country": "Kosovo",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "KOS",
     "province": "Ðakovica",
     "timezone": "Europe/Belgrade"
@@ -43651,7 +43651,7 @@
     "lng": 21.16598425,
     "pop": 331700,
     "country": "Kosovo",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "KOS",
     "province": "Pristina",
     "timezone": "Europe/Belgrade"
@@ -51623,7 +51623,7 @@
     "iso2": "NI",
     "iso3": "NIC",
     "province": "Nicaragua",
-    "timezone": null
+    "timezone": "America/Managua"
   },
   {
     "city": "Esteli",
@@ -53132,7 +53132,7 @@
     "lng": 33.95001013,
     "pop": 33016.5,
     "country": "Northern Cyprus",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "CYN",
     "province": "",
     "timezone": "Asia/Famagusta"
@@ -58979,7 +58979,7 @@
     "iso2": "RU",
     "iso3": "RUS",
     "province": "Sakha (Yakutia)",
-    "timezone": null
+    "timezone": "Asia/Ust-Nera"
   },
   {
     "city": "Timiryazevskiy",
@@ -63947,7 +63947,7 @@
     "iso2": "RU",
     "iso3": "RUS",
     "province": "Penza",
-    "timezone": null
+    "timezone": "Europe/Moscow"
   },
   {
     "city": "Ryazan",
@@ -64691,7 +64691,7 @@
     "iso2": "RU",
     "iso3": "RUS",
     "province": "Perm'",
-    "timezone": null
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "city": "Palana",
@@ -66104,7 +66104,7 @@
     "lng": 43.18004106,
     "pop": 67664,
     "country": "Somaliland",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "SOL",
     "province": "",
     "timezone": "Africa/Mogadishu"
@@ -66116,7 +66116,7 @@
     "lng": 45.54000037,
     "pop": 102931.5,
     "country": "Somaliland",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "SOL",
     "province": "",
     "timezone": "Africa/Mogadishu"
@@ -66128,7 +66128,7 @@
     "lng": 47.09752803,
     "pop": 30000,
     "country": "Somaliland",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "SOL",
     "province": "",
     "timezone": "Africa/Mogadishu"
@@ -66140,7 +66140,7 @@
     "lng": 45.01641475,
     "pop": 178407,
     "country": "Somaliland",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "SOL",
     "province": "",
     "timezone": "Africa/Mogadishu"
@@ -66152,7 +66152,7 @@
     "lng": 44.06531002,
     "pop": 362447,
     "country": "Somaliland",
-    "iso2": -99,
+    "iso2": "",
     "iso3": "SOL",
     "province": "",
     "timezone": "Africa/Mogadishu"
